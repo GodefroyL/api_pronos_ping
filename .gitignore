@@ -11,3 +11,6 @@ wheels/
 
 # Fichier secret
 .env
+
+# Dossiers pour fichiers locaux (ppt, fichier de test ...)
+doc_locaux/
